@@ -14,6 +14,7 @@ public class _07_Crossfire {
 
         List<List<Integer>> matrix = new ArrayList<>();
 
+
         readMatrix(matrix, n, m);
 
         String input = scanner.nextLine();
